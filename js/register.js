@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Your Google Apps Script URL (for saving to Sheets)
   const WEB_APP_URL =
-    "https://script.google.com/macros/s/AKfycby0tXQEo0upE-C4roQLx5ssgQqpjDC0mIHQ9ei3ITwQlzXdxfd4LGFcPxeG1qZ4Ixah8Q/exec";
+    "https://script.google.com/macros/s/AKfycbz5HwnOoW_4A59KHf6nbt77tSjEC8VlTCwFFAYPB2-ePWpciaQtq42GxnJb37OjXKykhA/exec";
 
   function validateForm() {
     registerBtn.disabled = !(
